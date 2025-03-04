@@ -1,1 +1,1 @@
-I tried to create a web application using Spring Boot and my custom BeanPostProcessor.
+Mini web application with Spring Boot, my custom BeanPostProcessor.  
